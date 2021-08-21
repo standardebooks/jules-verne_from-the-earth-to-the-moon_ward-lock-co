@@ -19,3 +19,7 @@ footer{
 body [xml|lang]{
 	font-style: italic;
 }
+
+[epub|type~="z3998:acronym"]{
+	font-variant: all-small-caps;
+}

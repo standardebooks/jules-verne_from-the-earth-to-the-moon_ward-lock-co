@@ -42,8 +42,8 @@
 		<meta property="group-position" refines="#collection">4</meta>
 		<dc:description id="description">After the end of the Civil War, the Baltimore Gun Club decides to apply its engineering expertise to the design of a cannon capable of shooting a projectile to the Moon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In search of an occupation after the end of the Civil War, the Baltimore Gun Club undertakes the design and construction of a cannon capable of launching a projectile to the Moon.  The three main protagonists--Impey Barbicane, president of the Gun Club; Captain Nicholl, Barbicane's nemesis and then collaborator; and Michel Ardan, a French scientist--board the hollow cannonball en route to the Moon.&lt;p&gt; 
-			&lt;p&gt;&lt;i lang="fr"&gt;De la Terre à la Lune&lt;/i&gt;, number 4 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, is one of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s best-known novels. It inspired numerous adaptations, from movies to theme parks to video games.&lt;/p&gt; 
+			&lt;p&gt;In search of an occupation after the end of the Civil War, the Baltimore Gun Club undertakes the design and construction of a cannon capable of launching a projectile to the Moon. The three main protagonists—Impey Barbicane, president of the Gun Club; Captain Nicholl, Barbicane’s nemesis and then collaborator; and Michel Ardan, a French scientist—board the hollow cannonball en route to the Moon.&lt;/p&gt;
+			&lt;p&gt;&lt;i lang="fr"&gt;De la Terre à la Lune&lt;/i&gt;, number 4 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, is one of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s best-known novels. It inspired numerous adaptations, from movies to theme parks to video games.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12901</dc:source>
@@ -53,8 +53,8 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_from-the-earth-to-the-moon_ward-lock-co</meta>
-		<dc:creator id="author">jules verne</dc:creator>
-		<meta property="file-as" refines="#author">verne, jules</meta>
+		<dc:creator id="author">Jules Verne</dc:creator>
+		<meta property="file-as" refines="#author">Verne, Jules</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
