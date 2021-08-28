@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
-	<title>The titlepage for the Standard Ebooks edition of From the Earth to the Moon, by jules verne. Translated by Ward Lock Co</title>
+	<title>The titlepage for the Standard Ebooks edition of From the Earth to the Moon, by Jules Verne. Translated by Ward, Lock &amp; Co.</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -31,5 +31,5 @@
 	<text class="title" x="700" y="230">EARTH TO THE MOON</text>
 	<text class="author" x="700" y="390">JULES VERNE</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
-	<text class="contributor" x="700" y="640">WARD LOCK CO</text>
+	<text class="contributor" x="700" y="640">WARD, LOCK &amp; CO.</text>
 </svg>
