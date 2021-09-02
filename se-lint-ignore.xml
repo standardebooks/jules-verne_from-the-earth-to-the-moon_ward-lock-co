@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-12.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>The conjunction 'et' in the title is properly not capitalized.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
