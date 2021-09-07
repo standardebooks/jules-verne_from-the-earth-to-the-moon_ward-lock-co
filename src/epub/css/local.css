@@ -20,6 +20,6 @@ body [xml|lang]{
 	font-style: italic;
 }
 
-[epub|type~="z3998:acronym"]{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
