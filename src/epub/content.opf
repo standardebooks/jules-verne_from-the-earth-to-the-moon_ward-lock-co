@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/from-the-earth-to-the-moon/ward-lock-co</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-09-07T16:49:06Z</dc:date>
+		<meta property="dcterms:modified">2021-09-07T16:49:06Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,15 +42,15 @@
 		<meta property="group-position" refines="#collection">4</meta>
 		<dc:description id="description">After the end of the Civil War, the Baltimore Gun Club decides to apply its engineering expertise to the design of a cannon capable of shooting a projectile to the Moon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In search of an occupation after the end of the Civil War, the Baltimore Gun Club undertakes the design and construction of a cannon capable of launching a projectile to the Moon. The three main protagonists—Impey Barbicane, president of the Gun Club; Captain Nicholl, Barbicane’s rival and then collaborator; and Michel Ardan, a French scientist—board the hollow cannonball en route to the Moon. The story concludes in &lt;i lang="fr"&gt;Autour de la Lune&lt;/i&gt;,the sequel published four years later.&lt;/p&gt;
+			&lt;p&gt;In search of an occupation after the end of the Civil War, the Baltimore Gun Club undertakes the design and construction of a cannon capable of launching a projectile to the Moon. The three main protagonists—Impey Barbicane, president of the Gun Club, Captain Nicholl, Barbicane’s rival and then collaborator, and Michel Ardan, a French scientist—board the hollow cannonball en route to the Moon. The story concludes in &lt;i lang="fr"&gt;Autour de la Lune&lt;/i&gt;,the sequel published four years later.&lt;/p&gt;
 			&lt;p&gt;&lt;i lang="fr"&gt;De la Terre à la Lune&lt;/i&gt;, number 4 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection, is one of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;’s best-known novels. It inspired numerous adaptations, from movies to theme parks to video games.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12901</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID405b09afa31c6</dc:source>
 		<meta property="se:production-notes">The present work corresponds to Part I of Project Gutenberg's “The Moon-Voyage,” which includes both “From the Earth to the Moon” and its sequel “Around the Moon.”</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">50843</meta>
+		<meta property="se:reading-ease.flesch">59.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_from-the-earth-to-the-moon_ward-lock-co</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -61,12 +61,12 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Ward, Lock &amp; Co.</dc:contributor>
 		<meta property="file-as" refines="#translator">Ward, Lock &amp; Co.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Ward, Lock &amp; Co., Limited</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Ward,_Lock_%26_Co.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n80036611</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Joseph Mallord William Turner</dc:contributor>
-		<meta property="file-as" refines="#artist">Turner, Joseph Mallord William</meta>
+		<dc:contributor id="artist">J. M. W. Turner</dc:contributor>
+		<meta property="file-as" refines="#artist">Turner, J. M. W.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Joseph Mallord William Turner</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._M._W._Turner</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060712</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
