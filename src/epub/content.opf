@@ -70,8 +70,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._M._W._Turner</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060712</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Norman Wolcott</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman</meta>
+		<dc:contributor id="transcriber-1">Norman M. Wolcott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman M.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Gregory Margo</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Margo, Gregory</meta>
