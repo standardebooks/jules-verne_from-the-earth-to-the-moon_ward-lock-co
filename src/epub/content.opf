@@ -47,7 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/12901</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID405b09afa31c6</dc:source>
 		<meta property="se:production-notes">The present work corresponds to Part I of Project Gutenberg's “The Moon-Voyage,” which includes both “From the Earth to the Moon” and its sequel “Around the Moon.”</meta>
-		<meta property="se:word-count">50843</meta>
+		<meta property="se:word-count">50840</meta>
 		<meta property="se:reading-ease.flesch">59.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_from-the-earth-to-the-moon_ward-lock-co</meta>
