@@ -27,8 +27,8 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">FROM THE</text>
-	<text class="title" x="700" y="230">EARTH TO THE MOON</text>
+	<text class="title" x="700" y="130">FROM THE EARTH</text>
+	<text class="title" x="700" y="230">TO THE MOON</text>
 	<text class="author" x="700" y="390">JULES VERNE</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
 	<text class="contributor" x="700" y="640">WARD, LOCK &amp; CO.</text>
