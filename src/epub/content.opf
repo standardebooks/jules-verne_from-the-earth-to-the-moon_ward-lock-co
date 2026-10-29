@@ -57,7 +57,7 @@
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
 		<meta property="schema:alternateName" refines="#author">Jules Gabriel Verne</meta>
-		<link href="https://en.wikipedia.org/wiki/Jules_verne" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Jules_Verne" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79064013.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Ward, Lock &amp; Co.</dc:contributor>
